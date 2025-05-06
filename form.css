@@ -1,0 +1,13 @@
+form label {
+    font-weight: 500;
+  }
+  
+  form .form-control,
+  form .form-select {
+    border-radius: 10px;
+  }
+  
+  form button {
+    border-radius: 10px;
+    font-weight: bold;
+  }
